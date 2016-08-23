@@ -1,0 +1,9 @@
+{
+  "redshift_creds": {
+    "host": "redshift_host",
+    "password": "aws_pwd",
+    "dbname": "dbname",
+    "user": "username",
+    "port": 5439
+  }
+}
